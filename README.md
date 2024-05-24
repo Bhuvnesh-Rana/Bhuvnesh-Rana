@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning **Java Back-End Frameworks and Cloud**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Bhuvnesh-Rana]
+
+- 📫 How to reach me **bhuvnesh.rana28@gmail.com**
