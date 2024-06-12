@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java Back-End Frameworks and Cloud**-->
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bhuvnesh-Rana](https://github.com/Bhuvnesh-Rana)
+- 👨‍💻 All of my projects are available at [https://github.com/Bhuvnesh-Rana?tab=repositories](https://github.com/Bhuvnesh-Rana?tab=repositories)
 
 - 📫 How to reach me **bhuvnesh.rana28@gmail.com**
 
